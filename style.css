@@ -1,0 +1,14 @@
+
+
+body {
+  background-image: url("img/back.jpeg");
+  background-repeat: no-repeat;
+  background-size: 2100px 1000px;
+  font-family: "Times New Roman", Georgia, Serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Playfair Display";
+  letter-spacing: 5px;
+
+}
